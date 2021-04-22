@@ -1,0 +1,9 @@
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\yusuf\source\repos\WorkInterviewProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
